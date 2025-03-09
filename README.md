@@ -1,6 +1,6 @@
 # ⚛️ Gustavo Farias
 
-**`Estudante`**
+**`Desenvolvedor Fullstack`**
 
 
 Olá! Me chamo Gustavo Farias Santiago, sou natural de Aracaju-SE, tenho 22 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Uninassau. Sou um jovem curioso, apaixonado por tecnologia e em constante busca por novos conhecimentos. Tenho grande interesse em enfrentar desafios, aprender e aplicar minhas habilidades em projetos inovadores. Estou em busca de uma oportunidade de estágio para crescer profissionalmente e contribuir com soluções tecnológicas criativas e eficientes. 

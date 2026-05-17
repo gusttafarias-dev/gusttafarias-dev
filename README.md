@@ -1,7 +1,13 @@
 # ⚛️ Gustavo Farias
 
 **`Product Engineer`**
+# 👋 Olá, eu sou Gustavo Farias Santiago
 
+ Profissional em Design UI/UX  
+ Desenvolvedor de Dispositivos Móveis  
+ Desenvolvedor Front-end  
+
+Tenho experiência na criação de interfaces modernas, intuitivas e responsivas, focadas em experiência do usuário e performance.
 ---
 
 ### 🤖 Linguagens e Tecnologias

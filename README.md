@@ -1,7 +1,6 @@
-# ⚛️ Gustavo Farias
+# 👋 Olá, eu sou Gustavo Farias Santiago
 
 **`Product Engineer`**
-# 👋 Olá, eu sou Gustavo Farias Santiago
 
  Profissional em Design UI/UX  
  Desenvolvedor de Dispositivos Móveis  

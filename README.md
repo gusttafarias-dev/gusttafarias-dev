@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o Gustavo Farias
 - 👀 Tenho interesse em JavaScript, Dart, Python, Flutter, React, Next, TypeScript e Node.js
-- 🌱 Estou aprimorando minhas habilidades em React, Next.js, TypeScript e desenvolvimento full stack.
+- 🌱 Estou aprimorando minhas habilidades em Desenvolvimento Mobile com flutter e Dart
 - 💞️ Estou sempre aberto a contribuir com projetos, aprender novas tecnologias e compartilhar conhecimento.
 - 📫 gustavofarias.dev@gmail.com
